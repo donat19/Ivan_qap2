@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Page</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+  <h1>JavaScript Function Showcase</h1>
+    
+  <div>
+      <input id="boolInput" type="text" placeholder="Enter value for pureBool">
+      <button onclick="testPureBool()">Test pureBool</button>
+  </div>
+  <div>
+      <input id="everyInput" type="text" placeholder="Comma-separated values">
+      <button onclick="testEvery()">Test every</button>
+  </div>
+  <div>
+      <input id="anyInput" type="text" placeholder="Comma-separated values">
+      <button onclick="testAny()">Test any</button>
+  </div>
+  <div>
+      <input id="noneInput" type="text" placeholder="Comma-separated values">
+      <button onclick="testNone()">Test none</button>
+  </div>
+  <div>
+      <input id="queryInput" type="text" placeholder="Query">
+      <input id="orderInput" type="text" placeholder="Order (ascending/descending)">
+      <input id="countInput" type="number" placeholder="Count (1-50)">
+      <input id="licenseInput" type="text" placeholder="License">
+      <button onclick="testBuildUrl()">Test buildUrl</button>
+  </div>
+  
+  <div id="output">Results will appear here...</div>
+  
+  <script src="./scripts/script.js"></script>
+</body>
+</html>

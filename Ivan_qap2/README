@@ -1,0 +1,32 @@
+# Programming With JavaScript - QAP2
+
+## Author: Ivan Zimalyov  
+### Date: February 10, 2025  
+
+## **Overview**  
+This project is part of the "Programming with JavaScript" course, testing skills in **strings, regex, and DOM manipulation**. The goal is to solve 10 tasks using JavaScript.
+
+## **Time Spent & Resources**  
+🕒 Spent **3 hours** working on this project. Used:
+- **Google** 🌍 for research.
+- **Reddit & Stack Overflow** 💡 for debugging.
+
+
+## **Tasks Completed**  
+1️⃣ Convert string to **snake_case**.  
+2️⃣ Generate a **video element**.  
+3️⃣ Validate & format **date strings**.  
+4️⃣ Convert **Date objects** to strings.  
+5️⃣ Normalize **geographic coordinates**.  
+6️⃣ Format multiple **coordinates**.  
+7️⃣ Detect **MIME types**.  
+8️⃣ Generate **license links**.  
+9️⃣ Convert **values to Boolean**.  
+🔟 Build an **API URL**.  
+
+## **Challenges & Learnings**  
+Faced challenges in input validation, regex, and error handling. Improved problem-solving and JavaScript skills.
+
+## **Final Thoughts**  
+💡 The project helped strengthen my JavaScript fundamentals. Looking forward to more practice!
+
